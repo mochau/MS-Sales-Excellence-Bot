@@ -1,3 +1,6 @@
+
+![alt text]https://user-images.githubusercontent.com/28518091/68918642-25a7ea00-07c3-11ea-9233-a1bdf4bf1bae.PNG
+
 # QnA Maker service
 QnA Maker enables you to power a question and answer service from your semi-structured content.
 
