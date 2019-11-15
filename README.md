@@ -1,5 +1,7 @@
+# Microsoft Sales Excellence Bot
+Microsoft Teams Web Bot built as a proof of concept to provide support for the wider team within the Specialist Team Unit within Microsoft - helping with user questions with future plans with a CRM integration. This was built on Microsoft Azure using the Microsoft Bot Framework and Microsoft QnA Maker API.
 
-![alt text]https://user-images.githubusercontent.com/28518091/68918642-25a7ea00-07c3-11ea-9233-a1bdf4bf1bae.PNG
+![alt text](https://user-images.githubusercontent.com/28518091/68918642-25a7ea00-07c3-11ea-9233-a1bdf4bf1bae.PNG)
 
 # QnA Maker service
 QnA Maker enables you to power a question and answer service from your semi-structured content.
